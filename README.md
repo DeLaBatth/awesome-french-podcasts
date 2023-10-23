@@ -1,5 +1,6 @@
 # awesome-french-podcasts
 A Collection of awesome french podcasts which are helpful for software engineers, SRE or security engineers.
+
 [<img src="images/banner.jpg" align="right" >](https://github.com/DeLaBatth/awesome-french-podcasts)
 
 ## Table of Contents
@@ -48,7 +49,7 @@ A Collection of awesome french podcasts which are helpful for software engineers
 
 ## DEVOPS
 
-* [Electro Monkeys](https://electro-monkeys.fr/) ([iTunes](https://podcasts.apple.com/fr/podcast/electro-monkeys/id1503255739) | [Google Podcasts](https://podcasts.google.com/?feed=aHR0cHM6Ly9mZWVkcy5idXp6c3Byb3V0LmNvbS85MjY3OTEucnNz) | [Podcast Addict](https://podplayer.net/?podId=2732553) | [Spotify](https://open.spotify.com/show/3P9JtwxgNJktyemtinMcLe))
+* [Electro Monkeys](https://electro-monkeys.fr/) ([iTunes](https://podcasts.apple.com/fr/podcast/electro-monkeys/id1503255739) | [Podcast Addict](https://podplayer.net/?podId=2732553) | [Spotify](https://open.spotify.com/show/3P9JtwxgNJktyemtinMcLe))
 
   * **Description**: Electro Monkeys est le podcast le plus décalé de la planète sur les technologies cloud natives ! On y parle de toutes les technologies de la CNCF, Kubernetes bien sûr, mais aussi Serverless, Service Mesh, Harbour, NATS et les autres...
   * **Animateur**: Stef @[saphoooo](http://twitter.com/saphoooo)
@@ -76,7 +77,7 @@ A Collection of awesome french podcasts which are helpful for software engineers
 
 ## SECURITY
 
-* [NoLimitSecu](https://www.nolimitsecu.fr/) ([Deezer](https://www.deezer.com/fr/show/8831) | [Spotify](https://open.spotify.com/show/25OSac4B0QLqisXfg4hmyX) | [iTunes](https://itunes.apple.com/fr/podcast/nolimitsecu/id1108965516) | [Youtube](https://www.youtube.com/@NoLimitSecu) | [Google Podcast](https://podcasts.google.com/feed/aHR0cHM6Ly93d3cubm9saW1pdHNlY3UuZnIvZmVlZC9wb2RjYXN0Lw?hl=fr))
+* [NoLimitSecu](https://www.nolimitsecu.fr/) ([Deezer](https://www.deezer.com/fr/show/8831) | [Spotify](https://open.spotify.com/show/25OSac4B0QLqisXfg4hmyX) | [iTunes](https://itunes.apple.com/fr/podcast/nolimitsecu/id1108965516) | [Youtube](https://www.youtube.com/@NoLimitSecu))
 
   * **Description** : NoLimitSecu est un podcast dédié à la cyber sécurité, alternant les sujets techniques, organisationnels et juridiques.
   * **Site** : [nolimitsecu.fr](https://www.nolimitsecu.fr/)
@@ -87,7 +88,7 @@ A Collection of awesome french podcasts which are helpful for software engineers
 
 ## Tech Management
 
-* [Tech Rocks](https://www.tech.rocks/) ([Deezer](https://www.deezer.com/fr/show/501572) | [Spotify](https://open.spotify.com/show/7vjdsslSmuMnDlqMFofict) | [iTunes](https://podcasts.apple.com/fr/podcast/tech-rocks-paroles-de-tech-leaders/id1478926482) | [Google Podcast](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkLmF1c2hhLmNvL3lBZTl2aE1XbFJMMQ))
+* [Tech Rocks](https://www.tech.rocks/) ([Deezer](https://www.deezer.com/fr/show/501572) | [Spotify](https://open.spotify.com/show/7vjdsslSmuMnDlqMFofict) | [iTunes](https://podcasts.apple.com/fr/podcast/tech-rocks-paroles-de-tech-leaders/id1478926482))
 
   * **Description** : Ce podcast donne la parole aux managers de la tech.
   * **Site** : [tech.rocks](https://www.tech.rocks/)
