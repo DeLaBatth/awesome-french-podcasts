@@ -86,7 +86,7 @@ Une liste de podcasts français géniaux et utiles pour les développeurs, DevOp
   * **Animateur** : Johanne Ulloa @[julloa](https://twitter.com/julloa)
   * **Durée** : 30 - 40 mins
   * **Fréquence** : Toutes les semaines
-  * **Tag line** : Podcast dédié à la cyber sécurité.
+  * **Tag line** : Podcast dédié à la cybersécurité.
 
 ## Tech Management
 
