@@ -1,16 +1,16 @@
 # awesome-french-podcasts
 A Collection of awesome french podcasts which are helpful for software engineers, SRE or security engineers.
 
-[<img src="images/banner.jpg" align="left" >](https://github.com/DeLaBatth/awesome-french-podcasts)
+[<img src="images/banner.png" align="center" >](https://github.com/DeLaBatth/awesome-french-podcasts)
 
-## Table of Contents
+## Table des matières
 
-* [Software Development](#softwaredevelopment)
+* [Développement](#développement)
 * [Devops](#devops)
-* [Security](#security)
+* [Sécurité](#sécurité)
 * [Tech Management](#techmanagement)
 
-## Software Development
+## Développement
 
 * [Message à caractère informatique](https://www.clever-cloud.com/fr/podcast/) ([Deezer](https://www.deezer.com/fr/show/1296342) | [Spotify](https://open.spotify.com/show/42LjM2Dn4ecaUaWe4AqipP) | [iTunes](https://podcasts.apple.com/fr/podcast/message-%C3%A0-caract%C3%A8re-informatique/id1515547030) | [Youtube](https://www.youtube.com/@Clevercloud-platform/podcasts))
 
@@ -49,7 +49,7 @@ A Collection of awesome french podcasts which are helpful for software engineers
   * **Tagline** : Le podcast Java en Français
 
 
-## DEVOPS
+## DevOps
 
 * [Electro Monkeys](https://electro-monkeys.fr/) ([iTunes](https://podcasts.apple.com/fr/podcast/electro-monkeys/id1503255739) | [Podcast Addict](https://podplayer.net/?podId=2732553) | [Spotify](https://open.spotify.com/show/3P9JtwxgNJktyemtinMcLe))
 
@@ -78,7 +78,7 @@ A Collection of awesome french podcasts which are helpful for software engineers
   * **Durée** : 60 - 90 mins
   * **Tagline** : Dev'Obs, Le magazine et observatoire du Devops.
 
-## SECURITY
+## Sécurité
 
 * [NoLimitSecu](https://www.nolimitsecu.fr/) ([Deezer](https://www.deezer.com/fr/show/8831) | [Spotify](https://open.spotify.com/show/25OSac4B0QLqisXfg4hmyX) | [iTunes](https://itunes.apple.com/fr/podcast/nolimitsecu/id1108965516) | [Youtube](https://www.youtube.com/@NoLimitSecu))
 
