@@ -1,7 +1,7 @@
 # awesome-french-podcasts
 A Collection of awesome french podcasts which are helpful for software engineers, SRE or security engineers.
 
-[<img src="images/banner.jpg" align="right" >](https://github.com/DeLaBatth/awesome-french-podcasts)
+[<img src="images/banner.jpg" align="left" >](https://github.com/DeLaBatth/awesome-french-podcasts)
 
 ## Table of Contents
 
@@ -23,6 +23,7 @@ A Collection of awesome french podcasts which are helpful for software engineers
 
 * [If This Then Dev](https://ifttd.io/) ([Deezer](https://www.deezer.com/fr/show/396442) | [Spotify](https://open.spotify.com/show/7nda7u8PGTU2AfpLZ9ZR9Z) | [iTunes](https://podcasts.apple.com/fr/podcast/ifttd-if-this-then-dev/id1471506605) | [Youtube](https://www.youtube.com/channel/UCsrTQc8637V2oWINnTptb_A))
 
+  * **Description** : Un podcast sous forme d'interview autour de sujets ou de tendances de developpement. 
   * **Site** : [ifttd.io](https://ifttd.io/)
   * **Animateur** : Bruno Soulez
   * **Durée** : 60 mins
@@ -31,6 +32,7 @@ A Collection of awesome french podcasts which are helpful for software engineers
 
 * [Artisan Développeur](https://artisandeveloppeur.fr/podcast/) ([Deezer](https://www.deezer.com/fr/show/365622) | [Spotify](https://open.spotify.com/show/2K61NjpvkL13y53tRZtUpQ) | [iTunes](https://podcasts.apple.com/fr/podcast/artisan-d%C3%A9veloppeur/id1355327935) | [Youtube](https://www.youtube.com/channel/UCsrTQc8637V2oWINnTptb_A))
 
+  * **Description** : Un podcast destiné aux developpeurs qui veulent bâtir une carrière épanouissante.
   * **Site** : [artisandeveloppeur.fr](https://artisandeveloppeur.fr/podcast/)
   * **Animateur** : Benoit Gantaume
   * **Durée** : 20 - 30 mins
@@ -40,7 +42,7 @@ A Collection of awesome french podcasts which are helpful for software engineers
 * [Les Cast Codeurs](https://lescastcodeurs.com/) ([Deezer](https://www.deezer.com/fr/show/249) | [Spotify](https://open.spotify.com/show/1wYoVGT6aFBGwKxwAeFQda) | [iTunes](https://podcasts.apple.com/fr/podcast/les-cast-codeurs-podcast/id312239675))
 
   * **Description**: Restez informés sur les sujets brulants de l'industrie Java.
-  * **Site** : [https://lescastcodeurs.com/](https://lescastcodeurs.com/)
+  * **Site** : [lescastcodeurs.com](https://lescastcodeurs.com/)
   * **Animateur** : [Emmanuel Bernard](https://emmanuelbernard.com/), [Arnaud Héritier](https://twitter.com/aheritier), [Guillaume Laforge](https://twitter.com/glaforge), [Antonio Goncalves](https://twitter.com/agoncal), [Vincent Massol](https://twitter.com/vmassol?lang=fr) [Audrey Neveu](https://twitter.com/Audrey_Neveu)
   * **Durée** : 60 - 100 mins
   * **Fréquence** : Mensuel
@@ -51,7 +53,8 @@ A Collection of awesome french podcasts which are helpful for software engineers
 
 * [Electro Monkeys](https://electro-monkeys.fr/) ([iTunes](https://podcasts.apple.com/fr/podcast/electro-monkeys/id1503255739) | [Podcast Addict](https://podplayer.net/?podId=2732553) | [Spotify](https://open.spotify.com/show/3P9JtwxgNJktyemtinMcLe))
 
-  * **Description**: Electro Monkeys est le podcast le plus décalé de la planète sur les technologies cloud natives ! On y parle de toutes les technologies de la CNCF, Kubernetes bien sûr, mais aussi Serverless, Service Mesh, Harbour, NATS et les autres...
+  * **Description**: Electro Monkeys est le podcast le plus décalé de la planète sur les technologies cloud natives! On y parle de toutes les technologies de la CNCF, Kubernetes bien sûr, mais aussi Serverless, Service Mesh, Harbour, NATS et les autres...
+  * **Site** : [electro-monkeys.fr](https://electro-monkeys.fr/)
   * **Animateur**: Stef @[saphoooo](http://twitter.com/saphoooo)
   * **Durée**: ~60 mins
   * **Fréquence**: Une à deux fois par semaine
