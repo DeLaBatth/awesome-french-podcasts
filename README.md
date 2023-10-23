@@ -58,15 +58,15 @@ A Collection of awesome french podcasts which are helpful for software engineers
   * **Animateur**: Stef @[saphoooo](http://twitter.com/saphoooo)
   * **Durée**: ~60 mins
   * **Fréquence**: Une à deux fois par semaine
-
+  * **Tagline** : Le podcast pour découvrir et comprendre les technologies et les concepts cloud natifs. 
 
 * [Radio DevOps](https://lydra.fr/radio-devops/) ([Deezer](https://www.deezer.com/fr/show/768562) | [iTunes](https://podcasts.apple.com/fr/podcast/radio-devops/id1502434010) | [Spotify](https://open.spotify.com/show/3RLaarKccDFOu89lSrC8w0))
 
   * **Description** : Le podcast issue de la communauté des Compagnons du DevOps. Podcast dédié à l'actualité DevOps. 
   * **Site** : [lydra.fr/radio-devops](https://lydra.fr/radio-devops/)
   * **Animateur** : Christophe Chaudier
-  * **Fréquence** : bi-mensuel
   * **Durée** : 60 - 80 mins
+  * **Fréquence** : bi-mensuel
   * **Tagline** : Vous avez l’envie d’en connaitre plus sur le mouvement DevOps ? Les problématiques liées au déploiement vous titillent… Alors, vous êtes au bon endroit !
 
 * [Dev'Obs](https://devobs.p7t.tech) ([Deezer](https://www.deezer.com/fr/show/56387) | [iTunes](https://podcasts.apple.com/fr/podcast/devobs/id1359662119) | [Spotify](https://open.spotify.com/show/46ReHDAqyWNYwi0vIRNTf6))
@@ -74,8 +74,8 @@ A Collection of awesome french podcasts which are helpful for software engineers
   * **Description** : Podcast dédié à l'actualité DevOps.
   * **Site** : [devobs.p7t.tech](https://devobs.p7t.tech/episodes)
   * **Animateur** : Guilhem Lettron  @[guilhemlettron](https://twitter.com/guilhemlettron)
-  * **Fréquence** : irrégulier
   * **Durée** : 60 - 90 mins
+  * **Fréquence** : irrégulier
   * **Tagline** : Dev'Obs, Le magazine et observatoire du Devops.
 
 ## Sécurité
@@ -84,7 +84,7 @@ A Collection of awesome french podcasts which are helpful for software engineers
 
   * **Description** : NoLimitSecu est un podcast dédié à la cyber sécurité, alternant les sujets techniques, organisationnels et juridiques.
   * **Site** : [nolimitsecu.fr](https://www.nolimitsecu.fr/)
-  * **Animateurs** : Johanne Ulloa @[julloa](https://twitter.com/julloa)
+  * **Animateur** : Johanne Ulloa @[julloa](https://twitter.com/julloa)
   * **Durée** : 30 - 40 mins
   * **Fréquence** : Toutes les semaines
   * **Tag line** : Podcast dédié à la cyber sécurité.
