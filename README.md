@@ -43,7 +43,7 @@ Une liste de podcasts français géniaux et utiles pour les développeurs, DevOp
 
   * **Description**: Restez informés sur les sujets brulants de l'industrie Java.
   * **Site** : [lescastcodeurs.com](https://lescastcodeurs.com/)
-  * **Animateur** : [Emmanuel Bernard](https://emmanuelbernard.com/), [Arnaud Héritier](https://twitter.com/aheritier), [Guillaume Laforge](https://twitter.com/glaforge), [Antonio Goncalves](https://twitter.com/agoncal), [Vincent Massol](https://twitter.com/vmassol?lang=fr) [Audrey Neveu](https://twitter.com/Audrey_Neveu)
+  * **Animateurs** : [Emmanuel Bernard](https://emmanuelbernard.com/), [Arnaud Héritier](https://twitter.com/aheritier), [Guillaume Laforge](https://twitter.com/glaforge), [Antonio Goncalves](https://twitter.com/agoncal), [Vincent Massol](https://twitter.com/vmassol?lang=fr) [Audrey Neveu](https://twitter.com/Audrey_Neveu)
   * **Durée** : 60 - 100 mins
   * **Fréquence** : Mensuel
   * **Tagline** : Le podcast Java en Français
