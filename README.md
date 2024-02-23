@@ -7,7 +7,7 @@ Une liste de podcasts français géniaux et utiles pour les développeurs, DevOp
 
 * [Développement](#développement)
 * [Devops](#devops)
-* [Sécurité](#sécurité)
+* [Cybersécurité](#cybersécurité)
 * [Tech Management](#techmanagement)
 
 ## Développement
@@ -77,7 +77,16 @@ Une liste de podcasts français géniaux et utiles pour les développeurs, DevOp
   * **Fréquence** : irrégulier
   * **Tagline** : Dev'Obs, Le magazine et observatoire du Devops.
 
-## Sécurité
+* [Tech'Vox](https://www.techvox.fr) ([Deezer](https://www.deezer.com/fr/show/3428352) | [Apple Podcast](https://podcasts.apple.com/fr/podcast/techvox/id1610750523) | [Spotify](https://open.spotify.com/show/48sQBlrugRYPmMriM4rX3C))
+
+  * **Description** : Podcast dédié à l'actualité DevOps.
+  * **Site** : [techvox.fr](https://www.techvox.fr/podcasts/)
+  * **Animateurs** : [Matthieu Anceret](https://twitter.com/AnceretMatthieu), Baptiste Bruneau, Alexandre Civilise, [Thomas Gicquel](https://twitter.com/ThomasGICQUEL7), Anthonin Huart, [Julien Raillard](https://twitter.com/JuHyralor)
+  * **Durée** : 10 - 60 mins
+  * **Fréquence** : bi-mensuel
+  * **Tagline** : Le Podcast qui parle de tech, sans se prendre la tête !
+
+## Cybersécurité
 
 * [NoLimitSecu](https://www.nolimitsecu.fr/) ([Deezer](https://www.deezer.com/fr/show/8831) | [Spotify](https://open.spotify.com/show/25OSac4B0QLqisXfg4hmyX) | [Apple Podcast](https://podcasts.apple.com/fr/podcast/nolimitsecu/id1108965516) | [Youtube](https://www.youtube.com/@NoLimitSecu))
 
