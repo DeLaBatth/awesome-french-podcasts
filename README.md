@@ -86,6 +86,15 @@ Une liste de podcasts français géniaux et utiles pour les développeurs, DevOp
   * **Fréquence** : bi-mensuel
   * **Tagline** : Le Podcast qui parle de tech, sans se prendre la tête !
 
+* [Dans La Tech](https://dansla.tech) ([Deezer](https://www.deezer.com/us/show/1000248815) | [Spotify](https://open.spotify.com/show/0GlIJ34eW9qg0yKvHmlFUh) | [Apple Podcast](https://podcasts.apple.com/us/podcast/dans-la-tech/id1698222464))
+
+  * **Description** : Podcast dédié à l'actualité DevOps et cloud.
+  * **Site** : [dansla.tech/@danslatech](https://dansla.tech/@danslatech)
+  * **Animateurs** : [DamyR](https://twitter.com/damyr_fr), [Mathieu Corbin](https://twitter.com/_mcorbin), [Maxence Maireaux](https://twitter.com/flemzord)
+  * **Durée** : 40 - 60 mins
+  * **Fréquence** : non régulier
+  * **Tag line** : On discute des questionnements de la tech sur le cloud, le développement et le DevOps !
+
 ## Cybersécurité
 
 * [NoLimitSecu](https://www.nolimitsecu.fr/) ([Deezer](https://www.deezer.com/fr/show/8831) | [Spotify](https://open.spotify.com/show/25OSac4B0QLqisXfg4hmyX) | [Apple Podcast](https://podcasts.apple.com/fr/podcast/nolimitsecu/id1108965516) | [Youtube](https://www.youtube.com/@NoLimitSecu))
