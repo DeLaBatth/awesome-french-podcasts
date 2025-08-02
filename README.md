@@ -106,6 +106,14 @@ Une liste de podcasts français géniaux et utiles pour les développeurs, DevOp
   * **Fréquence** : Toutes les semaines
   * **Tag line** : Podcast dédié à la cybersécurité.
 
+* [Purple Voice](https://podcastaddict.com/podcast/purple-voice/5901611) ([Deezer](https://www.deezer.com/fr/show/1001900081) | [Spotify](https://open.spotify.com/show/7GwDkbLdvokXaPYWufthTw) | [Apple Podcast](https://podcasts.apple.com/us/podcast/purple-voice/id1809792883))
+
+  * **Description** : Vous êtes en Blue Team ou en Red Team ? Vous cherchez à affiner vos détections, renforcer vos défenses, ou perfectionner vos offensives ? Purple Voice est le podcast pensé pour vous : les pros de la cybersécurité de terrain.
+  * **Site** : [podcastaddict.com](https://podcastaddict.com/podcast/purple-voice/5901611)
+  * **Animateurs** : Nabil Diab / Raphaël Ellouz
+  * **Durée** : 30 - 45 mins
+  * **Fréquence** : Toutes les semaines
+
 ## Tech Management
 
 * [Tech Rocks](https://www.tech.rocks/) ([Deezer](https://www.deezer.com/fr/show/501572) | [Spotify](https://open.spotify.com/show/7vjdsslSmuMnDlqMFofict) | [Apple Podcast](https://podcasts.apple.com/fr/podcast/tech-rocks-paroles-de-tech-leaders/id1478926482))

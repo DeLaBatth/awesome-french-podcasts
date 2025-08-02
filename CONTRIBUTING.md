@@ -11,6 +11,6 @@ Avant de déposer une PR, assurez-vous d'avoir respecté le template suivant :
   * **Animateurs** : [Nom de l'animateur](https://twitter.com/pseudo)
   * **Durée** : Durée moyenne du podcast. Ex : 60 - 90 mins
   * **Fréquence** : Fréquence moyenne du podcast
-  * **Tag line** : Slogan du podcast.
+  * **Tag line (optionnel)** : Slogan du podcast.
 
 Merci pour vos contributions :)
